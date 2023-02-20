@@ -56,7 +56,7 @@ export default function NewMap() {
                     setValLng(details?.geometry?.location?.lng)
                 }}
                 query={{
-                    key: 'AIzaSyDSON5PHjh4GGHAfAIC8ABPcmxGwophm4I',
+                    key: 'fasdfasdfalhlkasjdf',
                     language: 'en',
                 }}
 
